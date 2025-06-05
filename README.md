@@ -2,6 +2,8 @@
 
 Working on UEFI with intrests in general embedded firmware development.  Ask me about thermodynamics and [generative AI](https://github.com/copilot)
 
+https://github.hpe.com/HPE-ROM-TEAM/GNext/pull/29946
+
 <!--
 **dan-bryant/dan-bryant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
